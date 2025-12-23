@@ -34,7 +34,6 @@
         .leaflet-popup-content{
             max-height: 70vh;
             max-width: 70vw;
-			overflow: auto;
         }
         .leaflet-popup-content.media{
             width: auto!important;
@@ -200,5 +199,6 @@
             display: none;
 
         }
+
 
 

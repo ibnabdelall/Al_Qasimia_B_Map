@@ -33,7 +33,7 @@
         }
         .leaflet-popup-content{
             max-height: 70vh;
-            max-width: 50vw;
+            max-width: 70vw;
         }
         .leaflet-popup-content.media{
             width: auto!important;
@@ -50,7 +50,7 @@
         .leaflet-popup-content td img {
             max-height: 60vh;
             max-width: 60vw;
-	     overflow: auto;
+	     	overflow: auto;
         }
 
         .leaflet-tooltip {
@@ -197,4 +197,5 @@
         }
         .leaflet-control-layers-expanded .leaflet-control-layers-toggle {
             display: none;
+
         }
